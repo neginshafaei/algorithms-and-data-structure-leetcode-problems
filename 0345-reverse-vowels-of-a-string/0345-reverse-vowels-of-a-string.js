@@ -4,7 +4,6 @@
  */
 var reverseVowels = function(s) {
     const vowels = ['a', 'A', 'e', 'E', 'i', 'I', 'o', 'O', 'u', 'U']
-    let shallowS = []
     let char = s.split('')
 
     let left = 0
