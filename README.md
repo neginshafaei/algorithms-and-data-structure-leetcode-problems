@@ -56,3 +56,11 @@ Each file includes:
 ---
 
 **Let’s keep solving and improving one day at a time!**
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/neginshafaei/algorithms-and-data-structure-leetcode-problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+<!---LeetCode Topics End-->
