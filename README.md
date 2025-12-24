@@ -62,11 +62,13 @@ Each file includes:
 ## Array
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/neginshafaei/algorithms-and-data-structure-leetcode-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/neginshafaei/algorithms-and-data-structure-leetcode-problems/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/neginshafaei/algorithms-and-data-structure-leetcode-problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/neginshafaei/algorithms-and-data-structure-leetcode-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/neginshafaei/algorithms-and-data-structure-leetcode-problems/tree/master/0605-can-place-flowers) |
 ## Two Pointers
 |  |
